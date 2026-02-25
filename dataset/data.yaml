@@ -1,0 +1,4 @@
+train: /root/Eco_Vision/dataset/images/train
+val: /root/Eco_Vision/dataset/images/val
+nc: 2
+names: ['Car', 'Garbage']
