@@ -1,6 +1,0 @@
-*.zip
-venv/
-yolov9/
-dataset/
-*.pt
-__pycache__/
